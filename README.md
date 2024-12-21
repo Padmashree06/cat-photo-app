@@ -25,5 +25,5 @@ Copy code
 cd cat-photo-app
 Open index.html in your preferred browser.
 
-Acknowledgments
+Acknowledgments:
 Thank you to FreeCodeCamp for providing the foundation for this project.
